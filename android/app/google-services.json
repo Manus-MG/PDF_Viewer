@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399859552129",
+    "project_id": "uploadpdf-ca4fe",
+    "storage_bucket": "uploadpdf-ca4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399859552129:android:b246b99e550525c0bfa280",
+        "android_client_info": {
+          "package_name": "com.example.uploadpdfandview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4CumQS4JrT4na-4Zt-IHzSJFokrlqXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
